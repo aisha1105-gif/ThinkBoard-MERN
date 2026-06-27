@@ -94,6 +94,12 @@ Through this project, I gained hands-on experience with:
 
 ---
 
+## 🙏 Acknowledgements
+
+This project was built as part of my learning journey by following a YouTube tutorial. I recreated the application to strengthen my understanding of the MERN Stack, REST APIs, MongoDB integration, and full-stack development concepts. I also customized and explored the code to better understand how each component works.
+
+---
+
 ## 👨‍💻 Author
 
 **Aisha Tanveer**
