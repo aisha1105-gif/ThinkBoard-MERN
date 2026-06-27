@@ -1,0 +1,107 @@
+# 📝 MERN Notes
+
+A modern full-stack note management application built using the **MERN Stack** (MongoDB, Express.js, React.js, and Node.js). This project allows users to create, edit, and delete notes through a responsive and user-friendly interface while demonstrating full-stack web development concepts.
+
+![Project Preview](/frontend/public/screenshot-for-readme.png)
+
+---
+
+## 🚀 Features
+
+- 📝 Create, update, and delete notes
+- 📄 Store note titles and descriptions in MongoDB
+- ⚡ Responsive and clean user interface
+- 🔗 RESTful API built with Express.js and Node.js
+- 🛡️ API rate limiting using Upstash Redis
+- 🌐 Proper use of HTTP methods and status codes
+- ☁️ Ready for deployment
+- 📱 Mobile-friendly design
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Additional Tools
+- Upstash Redis
+- Axios
+
+---
+
+## ⚙️ Environment Variables
+
+Create a `.env` file inside the **backend** folder.
+
+```env
+MONGO_URI=your_mongodb_connection_string
+
+UPSTASH_REDIS_REST_URL=your_upstash_redis_url
+UPSTASH_REDIS_REST_TOKEN=your_upstash_redis_token
+
+NODE_ENV=development
+```
+
+---
+
+## 📦 Installation
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/aisha1105-gif/ThinkBoard-MERN
+cd your-repository
+```
+
+### Backend Setup
+
+```bash
+cd backend
+npm install
+npm run dev
+```
+
+### Frontend Setup
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+---
+
+## 🎯 Learning Outcomes
+
+Through this project, I gained hands-on experience with:
+
+- MERN Stack Development
+- REST API Development
+- CRUD Operations
+- MongoDB Integration
+- API Rate Limiting
+- Responsive Web Design
+- Application Deployment
+
+---
+
+## 🙏 Acknowledgements
+
+This project was built as part of my learning journey by following a YouTube tutorial. I recreated the application to strengthen my understanding of the MERN Stack, REST APIs, MongoDB integration, and full-stack development concepts. I also customized and explored the code to better understand how each component works.
+
+---
+
+## 👨‍💻 Author
+
+**Aisha Tanveer**
+
+Software Engineering Student | Full Stack Developer | MERN Stack Enthusiast
