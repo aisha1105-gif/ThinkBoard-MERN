@@ -1,4 +1,4 @@
-# 📝 MERN Notes Manager
+# 📝 MERN Notes
 
 A modern full-stack note management application built using the **MERN Stack** (MongoDB, Express.js, React.js, and Node.js). This project allows users to create, edit, and delete notes through a responsive and user-friendly interface while demonstrating full-stack web development concepts.
 
@@ -23,7 +23,6 @@ A modern full-stack note management application built using the **MERN Stack** (
 
 ### Frontend
 - React.js
-- Vite
 - CSS
 
 ### Backend
@@ -59,7 +58,7 @@ NODE_ENV=development
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/aisha1105-gif/ThinkBoard-MERN
 cd your-repository
 ```
 
